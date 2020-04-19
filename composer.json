@@ -1,0 +1,22 @@
+{
+    "name": "raigu/php80-stringable-polyfill",
+    "description": "Polyfill to backport PHP8.0 Stringable feature to lower PHP versions",
+    "keywords": ["polyfill", "compatibility", "portable", "stringable"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rait Kapp",
+            "email": "3442567+raigu@users.noreply.github.com"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "stub"
+        ]
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.4.0"
+    }
+}
