@@ -24,7 +24,7 @@ $ composer require raigu/php80-stringable-polyfill
 
 # License 
 
-This project is licensed under the [MIT license](LICENSE)
+This project is licensed under the [MIT license](LICENSE.md)
 
 # Acknowledgments
 
