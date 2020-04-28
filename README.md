@@ -1,3 +1,6 @@
+[![Latest Stable Version](https://poser.pugx.org/raigu/php80-stringable-polyfill/v/stable)](https://packagist.org/packages/raigu/php80-stringable-polyfill)
+[![GitHub license](https://img.shields.io/github/license/raigu/php80-stringable-polyfill)](LICENSE.md)
+
 # Plyfill of Stringable interface of PHP8.0 to PHP7.4+
 
 Allows to use [Stringable interface](https://wiki.php.net/rfc/stringable), which will be in PHP8.0, in PHP7.4+.
